@@ -1,0 +1,25 @@
+html {
+	background-color: black;
+	}
+
+h1 {
+	color:  green;
+	font-style: normal;
+	font-family: cursive;
+}
+
+h2 {
+	color:  green;
+	font-style: normal;
+	text-align: left;
+}
+
+body {
+	color:  green;
+	text-align: center;
+	font-style:  italic;
+}
+ul{
+	text-align: left;
+}
+;
